@@ -4,5 +4,10 @@
 }
 
 .band-image {
-  width: 600px;
+  max-width: 600px;
+
+}
+
+.band-image img {
+  width: 100%;
 }
