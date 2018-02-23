@@ -11,6 +11,16 @@ p {
   padding-right: 5px;
 }
 
+.medium-image {
+  max-width: 450px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.medium-image img {
+  width: 100%;
+}
+
 .band-image {
   max-width: 600px;
   margin-left: auto;
