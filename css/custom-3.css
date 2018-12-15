@@ -1,18 +1,18 @@
 .main {
   text-align: center;
   font-family: monospace;
-  max-width: 600px;
+  max-width: 45rem;
   margin-left: auto;
   margin-right: auto;
 }
 
 p {
-  padding-left: 5px;
-  padding-right: 5px;
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 
 .medium-image {
-  max-width: 450px;
+  max-width: 38rem;
   margin-left: auto;
   margin-right: auto;
 }
@@ -22,7 +22,7 @@ p {
 }
 
 .band-image {
-  max-width: 600px;
+  max-width: 38rem;
   margin-left: auto;
   margin-right: auto;
 }
@@ -32,7 +32,7 @@ p {
 }
 
 .videos {
-  max-width: 600px;
+  max-width: 38rem;
   margin-left: auto;
   margin: auto;
 }
